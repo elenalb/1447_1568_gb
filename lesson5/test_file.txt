@@ -1,0 +1,3 @@
+hello
+this is second string
+third line
